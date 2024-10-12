@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(bn\ img\ 1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    background-repeat: no-repeat;
+}
+.navbar{
+    width: 1200px;
+    height: 80px;
+    margin: auto;
+}
+.logo{
+    width: 200px;
+    float: left;
+    height: 80px;
+    margin-left: 50px;
+}
+.logo1{
+    color: orangered;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 40px;
+    float: left;
+    padding-top: 20px;
+}
+.logo2{
+    color: orangered;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 60px;
+    float: left;
+    padding-top: 10px;
+}
+.right side text{
+    width: 400px;
+    float: left;
+    height: 80px;
+}
+ul{
+    display: flex;
+    float: right;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+   display: inline;
+   margin-left: 40px;
+   margin-right: 40px;
+   margin-top: 50px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: ease-in-out;
+}
+ul li a:hover{
+    color: coral;
+}
+.h1tag{
+    color: white;
+    padding-left: 80px;
+    padding-bottom: 6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    padding-top: 240px;
+}
+.h11tag{
+    color: orangered;
+    padding-left: 80px;
+    padding-bottom: 6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+.ptag{
+    color: white;
+    padding-left: 80px;
+    padding-bottom: 6px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
+.buttontag{
+    border: none;
+    background-color: orangered;
+    color: white;
+    width: 10%;
+    border-radius: 7px;
+    padding: 10px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.booktag{
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}

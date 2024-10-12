@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #2c2c2c;
+    color: white;
+}
+
+.menu{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    background-color: brown;
+    border-radius: 10px;
+}
+
+.title{
+    margin-bottom: 60px;
+}
+
+.restaurantname {
+    font-size: 25px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.h2tag{
+    font-size: 55px;
+    color: #f7b731;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ptag{
+    font-size: 18px;
+    font-family: "Pacifico", cursive;
+}
+
+.food-section {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    padding-left: 5px;
+    padding-right: 5pc;
+}
+
+.food title h3 {
+    font-size: 24px;
+    background-color: #f7b731;
+    color: white;
+    margin-bottom: 10px;
+}
+.title1{
+    background-color: #f7b731;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+.food title {
+    margin-top: 30px;
+}
+
+.food title h3 {
+    font-size: 24px;
+    color: #f7b731;
+    margin-bottom: 10px;
+}
+footer {
+    margin-top: 30px;
+    border-top: 1px solid #f7b731;
+    padding-top: 10px;
+}
+
+footer p {
+    font-size: 16px;
+}
+.ptag1{
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: start;
+}
+span{
+    color:black;
+}
+.img{
+    width: 120px;
+    height: 100px;
+    margin-left: 30px;
+}
